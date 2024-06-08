@@ -1,4 +1,4 @@
-/* service [.at.] diamondhat.com */
+/* service [.at.] diamondhat. com */
 
 .topnav {
   background-color: #333;
@@ -12,6 +12,7 @@
   height: 200px;
   font-size: 21px;
   text-align: center;
+  line-height: 2;
 }
 
 .footer p {
@@ -46,14 +47,13 @@ body {
   margin-left: 20%;
   margin-right: 20%;
   font-family: "Lato", sans-serif;
-  position: relative;
 }
 
 .sidenav {
   width: 160px;
   position: fixed;
   z-index: 1;
-  top: 120px;
+  top: 200px;
   left: 10px;
   background: #F5F5F5;
   overflow-x: hidden;
@@ -83,8 +83,10 @@ body {
 .mainimg {
   border-radius: 70%;
   padding: 5px;
-  width: 280px;
-  position: absolute;
+  width: 160px;
+  position: fixed;
+  z-index: 1;
+  overflow-x: hidden;
   top: 10px;
   left: 20px;
 }
