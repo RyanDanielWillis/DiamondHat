@@ -5,6 +5,13 @@
   overflow: hidden;
 }
 
+.footer {
+  background-color: #000;
+  overflow: hidden;
+  color: #f2f2f2;
+  height: 200px;
+}
+
 
 .topnav a {
   float: left;
