@@ -64,4 +64,5 @@ body {
 .mainimg {
   width: 400px;
   border-radius: 70%;
+  float: center;
 }
