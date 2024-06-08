@@ -80,6 +80,10 @@ body {
   max-width: 800px;
 }
 
+.main img {
+  max-width:80%;
+}
+
 .mainimg {
   border-radius: 70%;
   padding: 5px;
