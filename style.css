@@ -61,11 +61,6 @@ body {
   max-width: 800px;
 }
 
-@media screen and (max-height: 450px) {
-  .sidenav {padding-top: 15px;}
-  .sidenav a {font-size: 18px;}
-}
-
 .mainimg {
   width: 400px;
   border-radius: 70%;
