@@ -49,10 +49,10 @@ body {
 }
 
 .sidenav {
-  width: 172px;
+  width: 160px;
   position: fixed;
   z-index: 1;
-  top: 80px;
+  top: 120px;
   left: 10px;
   background: #F5F5F5;
   overflow-x: hidden;
@@ -84,6 +84,6 @@ body {
   border-radius: 70%;
   padding: 5px;
   width: 280px;
-  top: 20px;
-  right: 20px;
+  top: 10px;
+  left: 20px;
 }
